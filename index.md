@@ -2,6 +2,6 @@
 title: Home
 ---
 
-[Home](index.md)
+[Home](index.md) (about.md)
 
 # Welcome to Helen L. Chen's personal website!
